@@ -16,7 +16,7 @@ Detailed instructions can be found [TODO here](https://blog.cyberethical.me).
 🔸How to install 3rd party registries:  
 https://kasmweb.com/docs/latest/guide/workspace_registry.html#rd-party-registry  
 🔸Registry URL:  
-https://cyberethicalme.github.io/kasm-registry/1.1/
+https://cyberethicalme.github.io/kasm-registry
 
 # Available containers
 
