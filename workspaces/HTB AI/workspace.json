@@ -1,7 +1,7 @@
 {
   "description": "AI labs machine from CyberEthical.Me - decicated for HackTheBox Academy",
   "docker_registry": "https://ghcr.io/",
-  "image_src": "vs-code.png",
+  "image_src": "icon.png",
   "categories": [
     "AI", "Machine Learning"
   ],
