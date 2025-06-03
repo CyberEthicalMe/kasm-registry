@@ -1,0 +1,19 @@
+{
+  "description": "AI labs machine from CyberEthical.Me - decicated for HackTheBox Academy",
+  "docker_registry": "https://ghcr.io/",
+  "image_src": "icon.png",
+  "categories": [
+    "AI", "Machine Learning"
+  ],
+  "friendly_name": "HTB Labs: AI Workspace",
+  "architecture": [
+    "arm64"
+  ],
+  "compatibility": [
+    {
+      "version": "1.17.x",
+      "image": "cyberethicalme/kasmws-htb-ai:1.17.0-beta.1",
+      "uncompressed_size_mb": 5753
+    }
+  ]
+}
