@@ -13,10 +13,7 @@
     {
       "version": "1.17.x",
       "image": "cyberethicalme/kasmws-htb-ai:1.17.0-beta.1",
-      "uncompressed_size_mb": 5753,
-      "available_tags": [
-        "1.17.0-beta.1"
-      ]
+      "uncompressed_size_mb": 5753
     }
   ]
 }

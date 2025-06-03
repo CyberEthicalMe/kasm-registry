@@ -74,7 +74,7 @@ glob("**/workspace.json", async function (err, files) {
 		modified: Date.now(),
 		workspaces: workspaces,
 		channels: [...channels],
-		default_channel: 'main'
+		default_channel: 'develop'
 	};
 
 	if (channels.size === 0) {
